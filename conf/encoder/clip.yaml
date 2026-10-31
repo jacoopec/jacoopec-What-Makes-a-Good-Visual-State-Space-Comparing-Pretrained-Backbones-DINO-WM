@@ -1,0 +1,7 @@
+_target_: models.encoder.clip.CLIPVisionEncoder
+name: "ViT-B/16"
+return_projected_tokens: true
+# true  -> patch dimension 512
+# false -> patch dimension 768
+layer: null
+download_root: null

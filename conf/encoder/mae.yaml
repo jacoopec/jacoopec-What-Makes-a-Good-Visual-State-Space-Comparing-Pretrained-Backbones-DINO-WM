@@ -1,0 +1,4 @@
+_target_: models.encoder.mae.MAEEncoder
+model_name: facebook/vit-mae-base
+cache_dir: null
+local_files_only: false
